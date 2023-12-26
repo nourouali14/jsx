@@ -1,0 +1,23 @@
+.img{
+  width: 140px;
+}
+
+.App{
+  border: grey;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.name{
+  font-size: 50px;
+  font-weight: 450;
+}
+
+#price ,.name , .desciption{
+  text-align: center;
+  background-color: blueviolet;
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
